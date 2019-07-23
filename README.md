@@ -1,7 +1,7 @@
 # Mobile-Applications
 This repository contain applications supported by mobile
 ```
-Code only for reference, code may be out dated
+Code only for reference only, code may be out dated
 ```
 
 # Platform
